@@ -15,4 +15,7 @@ Using :
 
 ## Arduino Code : 
 
-[Code Arduino](./led-blink.ino)
+- You can change the digital pin (use : 12, 11, 10...)
+- You can try to modify the code in the loop to test other ideas (modify the delay). 
+
+[Arduino Code](./led-blink.ino)
