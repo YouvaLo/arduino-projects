@@ -1,5 +1,12 @@
 # Learning Adruino 
 
+## Exercices : 
+
+1. [Lighting a led](./exercices/ex1/)  
+2. [Blinking LED](./exercices/ex2/) 
+3. [Blinking 4 LEDs](./exercices/ex3/)
+4. [4 LED chaser](./exercices/ex4/)
+
 ## 💡 Calculating the Required Resistor for Each LED
 
 ### 📘 Basic Formula (Ohm’s Law)
